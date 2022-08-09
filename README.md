@@ -45,7 +45,7 @@
 </div>
 
 <div>
-Cloud & DB
+:floppy_disk:Cloud & DB:floppy_disk:
 <p></p>
 <img alt="AWS" src = "https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img alt="SQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
