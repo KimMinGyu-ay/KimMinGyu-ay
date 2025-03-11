@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=Welcom&fontSize=90&desc=KimMinGuy%20Profile&descAlign=70&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=&height=300&section=header&text=Welcom&fontSize=90&desc=KimMinGyu%20Profile&descAlign=70&descAlignY=70)
 
 
 <p></p>
