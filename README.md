@@ -52,18 +52,6 @@
 </div>
 
 
-<p>
-SNS & E-mail
-</p>
-<p>
-Instargram : mg_7950
-</p>
-<p>
-Naver : akdrb159@naver.com
-</p>
-<p>
-google: akdrb159@google.com
-</p>
 
 </h3>
 <p><h3 align="center"></p>
